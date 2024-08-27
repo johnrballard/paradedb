@@ -86,7 +86,8 @@
             "welcome/quickstart"
           ]
         },
-        "welcome/support"
+        "welcome/support",
+        "welcome/license"
       ]
     },
     {
